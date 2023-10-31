@@ -1,4 +1,7 @@
 /* Style para a página principal */
+*{
+    list-style: none;
+}
 body{
     background-color: lightskyblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,9 +13,6 @@ header{
     margin-top: 5%;
   
     border-bottom: solid 5px black;
-}
-body ul{
-    list-style: none;
 }
 body i{
     color: black;
